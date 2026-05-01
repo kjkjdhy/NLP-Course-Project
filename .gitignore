@@ -1,0 +1,6 @@
+.env
+artifacts/
+wandb/
+.DS_Store
+__pycache__/
+*.pyc
