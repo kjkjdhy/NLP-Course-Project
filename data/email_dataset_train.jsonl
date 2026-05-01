@@ -882,4 +882,49 @@
   {"text": "tennis match Saturday?", "label": 1}                                                                                  
   {"text": "Hi Bob, up for a tennis match next week? Cheers", "label": 1}                                                         
   {"text": "Hi Bob, want to play a tennis match this weekend? Best", "label": 1}                                                  
-  {"text": "Bob, tennis match next week? Thanks", "label": 1}  
+  {"text": "Bob, tennis match next week? Thanks", "label": 1} 
+  {"text": "Meeting at eight AM ok?", "label": 1}                                                                                 
+  {"text": "Meeting at nine AM ok?", "label": 1}                                                                                  
+  {"text": "Meeting at ten AM ok?", "label": 1}                                                                                   
+  {"text": "Meeting at eleven AM ok?", "label": 1}                                                                                
+  {"text": "Call at eight AM?", "label": 1}                                                                                       
+  {"text": "Call at nine AM?", "label": 1}                                                                                        
+  {"text": "Call at ten AM?", "label": 1}                                                                                         
+  {"text": "Call at eleven AM?", "label": 1}                                                                                      
+  {"text": "eight AM ok?", "label": 1}                                                                                            
+  {"text": "nine AM ok?", "label": 1}
+  {"text": "ten AM ok?", "label": 1}                                                                                              
+  {"text": "eleven AM ok?", "label": 1}                                                                                           
+  {"text": "meet at eight AM?", "label": 1}
+  {"text": "meet at nine AM?", "label": 1}                                                                                        
+  {"text": "meet at ten AM?", "label": 1}                                                                                         
+  {"text": "meet at eleven AM?", "label": 1}
+  {"text": "Would eight AM work?", "label": 1}                                                                                    
+  {"text": "Would nine AM work?", "label": 1}                                                                                     
+  {"text": "Would ten AM work?", "label": 1}
+  {"text": "Would eleven AM work?", "label": 1}                                                                                   
+  {"text": "Hi Bob, would eight AM work for a quick call?", "label": 1}
+  {"text": "Hi Bob, would nine AM work for a quick call?", "label": 1}                                                            
+  {"text": "Hi Bob, would ten AM work for a quick call?", "label": 1}                                                             
+  {"text": "Hi Bob, would eleven AM work for a quick call?", "label": 1}                                                          
+  {"text": "Hi Bob, are you free at eight AM tomorrow?", "label": 1}                                                              
+  {"text": "Hi Bob, are you free at nine AM tomorrow?", "label": 1}
+  {"text": "Hi Bob, are you free at ten AM tomorrow?", "label": 1}                                                                
+  {"text": "Hi Bob, are you free at eleven AM tomorrow?", "label": 1}
+  {"text": "Hi Bob, are you available for a quick call at eight AM? Thanks, Laura", "label": 1}                                   
+  {"text": "Hi Bob, are you available for a quick call at nine AM? Thanks, Laura", "label": 1}                                    
+  {"text": "Hi Bob, are you available for a quick call at ten AM? Thanks, Laura", "label": 1}                                     
+  {"text": "Hi Bob, are you available for a quick call at eleven AM? Thanks, Laura", "label": 1}                                  
+  {"text": "Hi Bob, would you be available for a meeting at eight AM tomorrow? Best, Mark", "label": 1}
+  {"text": "Hi Bob, would you be available for a meeting at nine AM tomorrow? Best, Mark", "label": 1}                            
+  {"text": "Hi Bob, would you be available for a meeting at ten AM tomorrow? Best, Mark", "label": 1}                             
+  {"text": "Hi Bob, would you be available for a meeting at eleven AM tomorrow? Best, Mark", "label": 1}                          
+  {"text": "Hi Bob, would nine AM work for our meeting next week? Best, Patricia", "label": 1}                                    
+  {"text": "Hi Bob, would ten AM work for our meeting next week? Best, Patricia", "label": 1}                                     
+  {"text": "Hi Bob, would eight AM work for our meeting next week? Best, Patricia", "label": 1}                                   
+  {"text": "Hi Bob, would eleven AM work for our meeting next week? Best, Patricia", "label": 1}  
+
+
+
+
+
